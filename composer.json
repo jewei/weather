@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "jewei/weather",
+    "description": "A fun weather app.",
+    "keywords": ["weather", "php"],
     "license": "MIT",
     "type": "project",
     "require": {
