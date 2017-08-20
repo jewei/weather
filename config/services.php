@@ -35,4 +35,7 @@ return [
         'secret' => env('STRIPE_SECRET'),
     ],
 
+    'darksky' => [
+        'secret' => env('DARKSKY_SECRET'),
+    ],
 ];
